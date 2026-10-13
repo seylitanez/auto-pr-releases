@@ -1,0 +1,6 @@
+# Ignore large compiled binaries (distributed via GitHub Releases)
+*.AppImage
+*.deb
+*.rpm
+*.zip
+*.tar.gz
